@@ -1,25 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Route, Routes } from "react-router";
+import { BrowserRouter as Router } from "react-router-dom";
+import "./index.css";
+import "./App.css";
+import Container from "react-bootstrap/Container";
+import Row from "react-bootstrap/Row";
+import Navbar from "./component/Navbar";
+import Tabs from "./component/Tabs";
+import Character from "./component/Character";
+import Planets from "./component/Planets";
 
-function App() {
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Container className="p-5">
+        <Row>
+          <Navbar />
+          <Tabs />
+          <Routes>
+            <Route exact path="/planets" element={<Planets />} />
+            <Route exact path="/character" element={<Character />} />
+          </Routes>
+        </Row>
+      </Container>
+    </Router>
   );
-}
+};
 
 export default App;
