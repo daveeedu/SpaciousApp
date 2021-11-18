@@ -1,6 +1,6 @@
 {
-  "homepage": "http://daveeedu.github.io/SpaciousApp"
-  "name": "SpaciousApp",
+  "homepage": "http://daveeedu.github.io/SpaciousApp",
+  "name": "blogpost",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
