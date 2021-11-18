@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/SpaciousApp/static/css/main.19d65f7c.chunk.css",
+    "main.js": "/SpaciousApp/static/js/main.875b2e8e.chunk.js",
+    "main.js.map": "/SpaciousApp/static/js/main.875b2e8e.chunk.js.map",
+    "runtime-main.js": "/SpaciousApp/static/js/runtime-main.ffcc06c9.js",
+    "runtime-main.js.map": "/SpaciousApp/static/js/runtime-main.ffcc06c9.js.map",
+    "static/css/2.5dc0252d.chunk.css": "/SpaciousApp/static/css/2.5dc0252d.chunk.css",
+    "static/js/2.f688a3d6.chunk.js": "/SpaciousApp/static/js/2.f688a3d6.chunk.js",
+    "static/js/2.f688a3d6.chunk.js.map": "/SpaciousApp/static/js/2.f688a3d6.chunk.js.map",
+    "static/js/3.47ed4035.chunk.js": "/SpaciousApp/static/js/3.47ed4035.chunk.js",
+    "static/js/3.47ed4035.chunk.js.map": "/SpaciousApp/static/js/3.47ed4035.chunk.js.map",
+    "index.html": "/SpaciousApp/index.html",
+    "static/css/2.5dc0252d.chunk.css.map": "/SpaciousApp/static/css/2.5dc0252d.chunk.css.map",
+    "static/css/main.19d65f7c.chunk.css.map": "/SpaciousApp/static/css/main.19d65f7c.chunk.css.map",
+    "static/js/2.f688a3d6.chunk.js.LICENSE.txt": "/SpaciousApp/static/js/2.f688a3d6.chunk.js.LICENSE.txt",
+    "static/media/character-1.b8cf9c50.png": "/SpaciousApp/static/media/character-1.b8cf9c50.png",
+    "static/media/character-10.f6fdbe59.png": "/SpaciousApp/static/media/character-10.f6fdbe59.png",
+    "static/media/character-12.93868536.png": "/SpaciousApp/static/media/character-12.93868536.png",
+    "static/media/character-16.68426aac.png": "/SpaciousApp/static/media/character-16.68426aac.png",
+    "static/media/character-2.6859fefd.png": "/SpaciousApp/static/media/character-2.6859fefd.png",
+    "static/media/character-5.2316ee86.png": "/SpaciousApp/static/media/character-5.2316ee86.png",
+    "static/media/character-6.839b5ded.png": "/SpaciousApp/static/media/character-6.839b5ded.png",
+    "static/media/character-7.fadfa678.png": "/SpaciousApp/static/media/character-7.fadfa678.png",
+    "static/media/character-9.d1414f7c.png": "/SpaciousApp/static/media/character-9.d1414f7c.png",
+    "static/media/planet-1.384a5457.svg": "/SpaciousApp/static/media/planet-1.384a5457.svg",
+    "static/media/planet-2.83ed008c.svg": "/SpaciousApp/static/media/planet-2.83ed008c.svg",
+    "static/media/planet-3.1e7e89f2.svg": "/SpaciousApp/static/media/planet-3.1e7e89f2.svg",
+    "static/media/planet-4.dcf17b9a.svg": "/SpaciousApp/static/media/planet-4.dcf17b9a.svg",
+    "static/media/planet-5.92952d74.svg": "/SpaciousApp/static/media/planet-5.92952d74.svg",
+    "static/media/planet-6.66e9910c.svg": "/SpaciousApp/static/media/planet-6.66e9910c.svg",
+    "static/media/planet-7.2f74e7f8.svg": "/SpaciousApp/static/media/planet-7.2f74e7f8.svg",
+    "static/media/planet-8.48c0a610.svg": "/SpaciousApp/static/media/planet-8.48c0a610.svg",
+    "static/media/planet-9.c5b1f749.svg": "/SpaciousApp/static/media/planet-9.c5b1f749.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffcc06c9.js",
+    "static/css/2.5dc0252d.chunk.css",
+    "static/js/2.f688a3d6.chunk.js",
+    "static/css/main.19d65f7c.chunk.css",
+    "static/js/main.875b2e8e.chunk.js"
+  ]
+}
